@@ -3,80 +3,143 @@
             {
                 "title": "Basic Fantasy Sword (Old)",
                 "description": "Programmed basic sword with advanced VFX, damage VFX & animations",
-                "path": "https://www.youtube.com/embed/9fBNQaKKNO4"
+                "path": "https://www.youtube.com/embed/9fBNQaKKNO4",
+                "interactible": true
             },
             {
                 "title": "Settings Slider & Selector (Old)",
                 "description": "Settings system with basic sliders and one selector",
-                "path": "https://www.youtube.com/embed/POZLzjjs3ko"
+                "path": "https://www.youtube.com/embed/POZLzjjs3ko",
+                "interactible": true
             },
             {
                 "title": "Potions System (Old)",
                 "description": "A potion system that gives different buffs to the player",
-                "path": "https://www.youtube.com/embed/WEXVgBgEvsE"
+                "path": "https://www.youtube.com/embed/WEXVgBgEvsE",
+                "interactible": true
             },
              {
                 "title": "Advanced Settings System",
                 "description": "Cool settings system with saving and animations",
-                "path": "https://www.youtube.com/embed/8A5AHmtvLnM"
+                "path": "https://www.youtube.com/embed/8A5AHmtvLnM",
+                "interactible": true
             },
             {
                 "title": "Trap",
                 "description": "A Trap that stuns the players and highlights him",
-                "path": "https://www.youtube.com/embed/eOs2Fbyj3Hk"
+                "path": "https://www.youtube.com/embed/eOs2Fbyj3Hk",
+                "interactible": true
             },
             {
                 "title": "Bow",
                 "description": "Basic bow with bullet drop",
-                "path": "https://www.youtube.com/embed/T34SKY8Z8rg"
+                "path": "https://www.youtube.com/embed/T34SKY8Z8rg",
+                "interactible": true
             },
             {
                 "title": "Size Game",
                 "description": "Size based game with dev products, spins, daily rewards and quests",
-                "path": "https://www.youtube.com/embed/9CBsLRE0yoQ"
+                "path": "https://www.youtube.com/embed/9CBsLRE0yoQ",
+                "interactible": true
             },
 
             {
                 "title": "Emotes System",
                 "description": "Basic emotes system",
-                "path": "https://www.youtube.com/embed/XBASJ9Xed3g"
+                "path": "https://www.youtube.com/embed/XBASJ9Xed3g",
+                "interactible": true
             },
             {
                 "title": "Uno System",
                 "description": "Uno game system for 2-4 players",
-                "path": "https://www.youtube.com/embed/huGmDiTkpOU"
+                "path": "https://www.youtube.com/embed/huGmDiTkpOU",
+                "interactible": true
             },
             {
                 "title": "Punch System",
                 "description": "Basic punch system with stuns",
-                "path": "https://www.youtube.com/embed/XGE27ds7Ecg"
+                "path": "https://www.youtube.com/embed/XGE27ds7Ecg",
+                "interactible": true
             },
             {
                 "title": "Enemy and Parry System",
                 "description": "Enemy AI and parry system that requires to press a key",
-                "path": "https://www.youtube.com/embed/L7v855FYCNY"
+                "path": "https://www.youtube.com/embed/L7v855FYCNY",
+                "interactible": true
             },
             {
                 "title": "Full Pet System",
                 "description": "Pet system with hatch, actions and animations",
-                "path": "https://www.youtube.com/embed/oPyVgJBzDVo"
+                "path": "https://www.youtube.com/embed/oPyVgJBzDVo",
+                "interactible": true
             },
             {
                 "title": "House Customization System",
                 "description": "House custiomization with saving",
-                "path": "https://www.youtube.com/embed/BVx1gbVuD3o"
+                "path": "https://www.youtube.com/embed/BVx1gbVuD3o",
+                "interactible": true
             },
             {
                 "title": "Placing System",
                 "description": "Placing system with options",
-                "path": "https://www.youtube.com/embed/wlIIRVPCGOs"
+                "path": "https://www.youtube.com/embed/wlIIRVPCGOs",
+                "interactible": true
             }
         ],
         "web": [
+            {
+                "title": "Shopping App",
+                "description": "A web app with multiple products and a shopping cart.",
+                "path": "https://product-showcase-lemon.vercel.app",
+                "interactible": false
+            },
+
+            {
+                "title": "Tic tac toe",
+                "description": "A game that allows you to play with a friend",
+                "path":"https://three-in-line.vercel.app",
+                "interactible": false
+            },
+
+            {
+                "title": "Reminder App",
+                "description": "A web app with the options to create, set completed and delete reminders.",
+                "path": "https://remind-me-app-eight.vercel.app",
+                "interactible": false
+            },
              {
-                "title": "Basic Fantasy Sword",
-                "description": "Programmed basic sword with advanced VFX, damage VFX & animations",
-                "path": "https://www.youtube.com/embed/VIDEO_ID/Sword.mp4"
+                "title": "SodaAPI",
+                "description": "A REST, MVC API that allows you to get, post, patch data (MAY TAKE A WHILE TO LOAD)",
+                "path": "https://sodapi-jax.onrender.com/sodas",
+                "interactible": false
+            },
+
+            {
+                "title": "User Table",
+                "description": "A web app that allows you to order, search and delete users on a table",
+                "path": "https://user-table-ebon.vercel.app",
+                "interactible": false
+            },
+
+            {
+                "title": "Anime shower",
+                "description": "A web app that allows you to search for anime and learn more about them.",
+                "path": "https://ani-page.vercel.app",
+                "interactible": false
+            },
+
+            {
+                "title": "Calculator",
+                "description": "A web app that allows you to do basic calculations.",
+                "path": "https://satixxcalculator.vercel.app",
+                "interactible": false
+            },
+
+            {
+                "title": "Cats",
+                "description": "A web app that allows you to do generate a cat/dog image and a cat random fact",
+                "path": "https://cat-image-generator-nine.vercel.app",
+                "interactible": false
             }
         ]
     }
