@@ -1,0 +1,82 @@
+    {
+        "roblox": [
+            {
+                "title": "Basic Fantasy Sword (Old)",
+                "description": "Programmed basic sword with advanced VFX, damage VFX & animations",
+                "path": "https://www.youtube.com/embed/9fBNQaKKNO4"
+            },
+            {
+                "title": "Settings Slider & Selector (Old)",
+                "description": "Settings system with basic sliders and one selector",
+                "path": "https://www.youtube.com/embed/POZLzjjs3ko"
+            },
+            {
+                "title": "Potions System (Old)",
+                "description": "A potion system that gives different buffs to the player",
+                "path": "https://www.youtube.com/embed/WEXVgBgEvsE"
+            },
+             {
+                "title": "Advanced Settings System",
+                "description": "Cool settings system with saving and animations",
+                "path": "https://www.youtube.com/embed/8A5AHmtvLnM"
+            },
+            {
+                "title": "Trap",
+                "description": "A Trap that stuns the players and highlights him",
+                "path": "https://www.youtube.com/embed/eOs2Fbyj3Hk"
+            },
+            {
+                "title": "Bow",
+                "description": "Basic bow with bullet drop",
+                "path": "https://www.youtube.com/embed/T34SKY8Z8rg"
+            },
+            {
+                "title": "Size Game",
+                "description": "Size based game with dev products, spins, daily rewards and quests",
+                "path": "https://www.youtube.com/embed/9CBsLRE0yoQ"
+            },
+
+            {
+                "title": "Emotes System",
+                "description": "Basic emotes system",
+                "path": "https://www.youtube.com/embed/XBASJ9Xed3g"
+            },
+            {
+                "title": "Uno System",
+                "description": "Uno game system for 2-4 players",
+                "path": "https://www.youtube.com/embed/huGmDiTkpOU"
+            },
+            {
+                "title": "Punch System",
+                "description": "Basic punch system with stuns",
+                "path": "https://www.youtube.com/embed/XGE27ds7Ecg"
+            },
+            {
+                "title": "Enemy and Parry System",
+                "description": "Enemy AI and parry system that requires to press a key",
+                "path": "https://www.youtube.com/embed/L7v855FYCNY"
+            },
+            {
+                "title": "Full Pet System",
+                "description": "Pet system with hatch, actions and animations",
+                "path": "https://www.youtube.com/embed/oPyVgJBzDVo"
+            },
+            {
+                "title": "House Customization System",
+                "description": "House custiomization with saving",
+                "path": "https://www.youtube.com/embed/BVx1gbVuD3o"
+            },
+            {
+                "title": "Placing System",
+                "description": "Placing system with options",
+                "path": "https://www.youtube.com/embed/wlIIRVPCGOs"
+            }
+        ],
+        "web": [
+             {
+                "title": "Basic Fantasy Sword",
+                "description": "Programmed basic sword with advanced VFX, damage VFX & animations",
+                "path": "https://www.youtube.com/embed/VIDEO_ID/Sword.mp4"
+            }
+        ]
+    }

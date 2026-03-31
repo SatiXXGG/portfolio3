@@ -1,0 +1,30 @@
+
+[
+    {
+        "title": "LUAU",
+        "description": "I use it for making games on Roblox. And I usually use Roblox-ts",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg",
+        "color": "#0099FF"
+    },
+
+    {
+        "title": "PYTHON",
+        "description": "I use it for bots, assistants and plugins and tried web development",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png",
+        "color": "#eb8634"
+    },
+
+    {
+        "title": "JAVASCRIPT",
+        "description": "I learned it for web development and I use it for making websites.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png",
+        "color": "#f5d742"
+    },
+
+     {
+        "title": "TYPESCRIPT",
+        "description": "I learned it for web development and I use it for making websites.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png",
+        "color": "#425af5"
+    }
+]
