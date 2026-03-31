@@ -1,7 +1,7 @@
 import Img from "../assets/img.jpeg";
 export default function AboutMe() {
   return (
-    <article className="my-4 gap-2 flex flex-row bg-neutral-100 rounded-3xl p-3 shadow md:h-auto h-68">
+    <article className="my-4 gap-2 flex flex-row bg-neutral-100 rounded-3xl p-3 shadow md:h-auto h-auto">
       <div className="p-2 md:p-12">
         <h1 className="font-black my-1 md:my-4 md:text-3xl text-sm text-left text-purple-600 schoolbell">
           About me 👋
@@ -14,7 +14,7 @@ export default function AboutMe() {
           learning new things and I make all my efforts to work the best way I can
         </p>
       </div>
-      {window.innerWidth > 768 && (
+      {window.innerWidth > 1000 && (
         <img
           src={Img}
           className="w-72 rounded-2xl outline-1 outline-neutral-300 md:rende"
