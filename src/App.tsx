@@ -31,9 +31,9 @@ function App() {
       </header>
 
       {/* EXPERIENCE */}
-      <div className="my-4 gap-2 flex flex-col items-center ">
+      <div className="my-4 gap-2 flex flex-col items-center  px-12">
         <h1 className="font-black my-4">My Experience</h1>
-        <div className="grid gap-4 md:grid-cols-4 grid-cols-2">
+        <div className="grid gap-4 md:grid-cols-4 grid-cols-1">
           {Experience.map((exp, i) => (
             <ExperienceComponent
               key={i}

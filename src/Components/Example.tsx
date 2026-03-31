@@ -11,7 +11,7 @@ export default function RExample({ proj, i }: IProps) {
   return (
     <div
       key={i}
-      className="bg-neutral-100 rounded-2xl p-4 outline-2 outline-neutral-200 flex flex-col gap-1 mx-auto md:w-96"
+      className="bg-neutral-100 rounded-2xl p-4 outline-2 outline-neutral-200 flex flex-col gap-1 mx-auto w-96"
     >
       <iframe className="rounded-xl h-48" src={proj.path}></iframe>
       <hr className="opacity-20"></hr>
